@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+ 
+  }
+  h4 {
+    font-size: 20px;
+  }
+  .header {
+    padding: 20px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+  }
+  p {
+    font-size: 20px;
+  }
+
+  form {
+    border: 3px solid #f1f1f1;
+  }
+  legend{
+      font-size: 20px;
+  }
+  label{
+   width: 100px;
+   display: inline-block;
+  }
+  a{ 
+    color: black;
+    text-decoration: none;
+  }
+ .text{
+   color: white;
+ }
+ 
